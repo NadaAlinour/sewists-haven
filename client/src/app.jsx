@@ -1,10 +1,11 @@
 import React from "react";
+import AppRoutes from "./router/AppRoutes";
 
 
   export default function App() {
     return (
       <>
-        <h1>sanity check</h1>
+        <AppRoutes />
       </>
     )
   }
