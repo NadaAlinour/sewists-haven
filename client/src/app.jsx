@@ -7,6 +7,7 @@ import Navbar from "./components/Navbar";
     return (
       <>
         <Navbar />
+        <AppRoutes />
       </>
     )
   }
